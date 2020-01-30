@@ -1,0 +1,97 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.social:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+.social {
+  -webkit-transform: scale(0.8);
+  /* Browser Variations: */
+
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+}
+
+/*
+    Multicoloured Hover Variations
+*/
+
+#social-fb:hover {
+  color: #3B5998;
+}
+#social-tw:hover {
+  color: #4099FF;
+}
+#social-gp:hover {
+  color: #d34836;
+}
+#social-em:hover {
+  color: #f39c12;
+}
+.tile {
+  width: 100%;
+  display: inline-block;
+  box-sizing: border-box;
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.tile .title {
+  margin-top: 0px;
+}
+.tile.purple, .tile.blue, .tile.red, .tile.orange, .tile.green {
+  color: #fff;
+}
+.tile.purple {
+  background: #5133ab;
+}
+.tile.purple:hover {
+  background: #3e2784;
+}
+.tile.red {
+  background: #ac193d;
+}
+.tile.red:hover {
+  background: #7f132d;
+}
+.tile.green {
+  background: #00a600;
+}
+.tile.green:hover {
+  background: #007300;
+}
+.tile.blue {
+  background: #2672ec;
+}
+.tile.blue:hover {
+  background: #125acd;
+}
+.tile.orange {
+  background: #dc572e;
+}
+.tile.orange:hover {
+  background: #b8431f;
+}
+
+.card{
+  bottom-margin: 10px;
+  margin-right: 5%;
+}
