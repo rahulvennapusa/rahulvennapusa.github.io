@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Playwright / dev tooling
+.playwright-mcp/
+
+# Screenshots (dev artifacts)
+*.png
+
+# Claude Code
+.claude/
+
+# Superpowers docs (plans/specs)
+docs/
+
+# Source documents (CV kept out of repo)
+*.docx
