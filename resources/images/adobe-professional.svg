@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adobe Professional badge</title>
+  <desc id="desc">Red and white Adobe Professional certification badge</desc>
+  <path d="M34 38C34 18.1 50.1 2 70 2h372c19.9 0 36 16.1 36 36v288c0 11.5-5.5 22.3-14.8 29.1L276.1 492.8c-12.7 9.3-29.5 9.3-42.2 0L46.8 355.1C37.5 348.3 32 337.5 32 326V245h5v81c0 9.9 4.7 19.2 12.7 25.1l187.1 137.7c11.5 8.4 27.1 8.4 38.6 0l187-137.7c8-5.9 12.7-15.2 12.7-25.1v-81h5v81c0 13.1-6.3 25.5-16.8 33.2L276.2 496.9c-13.7 10.1-32.7 10.1-46.4 0L42.7 359.2C32.2 351.5 26 339.1 26 326V245h8v81c0 10.9 5.2 21.1 14 27.6l187.1 137.7c12.5 9.2 29.5 9.2 42 0l187-137.7c8.8-6.5 14-16.7 14-27.6V38c0-17.1-13.9-31-31-31H70C52.9 7 39 20.9 39 38h-5z" fill="#fa0f00"/>
+  <rect y="60" width="512" height="150" fill="#fa0f00"/>
+  <text x="256" y="152" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="3">PROFESSIONAL</text>
+  <path d="M235.8 241.5c2.4-5.1 7.5-8.3 13.1-8.3h26.2c5.6 0 10.7 3.2 13.1 8.3l45.4 98.4c4.4 9.5-2.6 20.4-13.1 20.4h-28.8c-5.8 0-11-3.4-13.3-8.7L256 299.3l-22.4 52.3c-2.3 5.3-7.5 8.7-13.3 8.7h-28.8c-10.5 0-17.5-10.9-13.1-20.4l57.4-98.4z" fill="#fa0f00"/>
+  <path d="M256 299.3l22.4 52.3c2.3 5.3 7.5 8.7 13.3 8.7h28.8c10.5 0 17.5-10.9 13.1-20.4l-45.4-98.4c-2.4-5.1-7.5-8.3-13.1-8.3h-10.7l-8.4 66.1z" fill="#fa0f00"/>
+</svg>

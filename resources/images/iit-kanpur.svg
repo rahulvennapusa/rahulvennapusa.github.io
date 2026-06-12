@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">IIT Kanpur seal</title>
+  <desc id="desc">Teal Indian Institute of Technology Kanpur circular seal</desc>
+  <g fill="none" stroke="#0c4b55" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="110" cy="110" r="92"/>
+    <circle cx="110" cy="110" r="68"/>
+    <circle cx="110" cy="110" r="47"/>
+    <circle cx="45" cy="110" r="5" fill="#0c4b55"/>
+    <circle cx="175" cy="110" r="5" fill="#0c4b55"/>
+    <path d="M110 61c-11 18-18 33-18 49 0 15 8 27 18 27s18-12 18-27c0-16-7-31-18-49z"/>
+    <path d="M110 78c-5 9-8 19-8 29 0 8 3 15 8 15s8-7 8-15c0-10-3-20-8-29z"/>
+    <path d="M77 89c8-7 19 0 16 11-2 8-11 12-8 22 2 7 9 10 15 8"/>
+    <path d="M143 89c-8-7-19 0-16 11 2 8 11 12 8 22-2 7-9 10-15 8"/>
+    <path d="M99 137h22v15H99z"/>
+    <path d="M74 46a75 75 0 0 1 72 0"/>
+    <path d="M74 174a75 75 0 0 0 72 0"/>
+    <path d="M110 38v14"/>
+    <path d="M94 41l4 13"/>
+    <path d="M79 47l7 12"/>
+    <path d="M66 57l10 10"/>
+    <path d="M56 70l12 7"/>
+    <path d="M50 86l14 3"/>
+    <path d="M48 103l14 1"/>
+    <path d="M48 117l14-1"/>
+    <path d="M50 134l14-3"/>
+    <path d="M56 150l12-7"/>
+    <path d="M66 163l10-10"/>
+    <path d="M79 173l7-12"/>
+    <path d="M94 179l4-13"/>
+    <path d="M110 182v-14"/>
+    <path d="M126 179l-4-13"/>
+    <path d="M141 173l-7-12"/>
+    <path d="M154 163l-10-10"/>
+    <path d="M164 150l-12-7"/>
+    <path d="M170 134l-14-3"/>
+    <path d="M172 117l-14-1"/>
+    <path d="M172 103l-14 1"/>
+    <path d="M170 86l-14 3"/>
+    <path d="M164 70l-12 7"/>
+    <path d="M154 57l-10 10"/>
+    <path d="M141 47l-7 12"/>
+    <path d="M126 41l-4 13"/>
+  </g>
+  <g fill="#0c4b55" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="110" y="30" text-anchor="middle" font-size="10">INDIAN INSTITUTE OF TECHNOLOGY KANPUR</text>
+    <text x="110" y="199" text-anchor="middle" font-size="11" letter-spacing="0.7">INDIAN INSTITUTE OF TECHNOLOGY KANPUR</text>
+    <text x="31" y="116" font-size="10" transform="rotate(-90 31 116)">INDIAN</text>
+    <text x="189" y="116" font-size="10" transform="rotate(90 189 116)">KANPUR</text>
+  </g>
+</svg>

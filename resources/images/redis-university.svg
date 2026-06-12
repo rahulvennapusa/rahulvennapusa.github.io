@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 150" role="img" aria-labelledby="title desc">
+  <title id="title">Redis University logo</title>
+  <desc id="desc">Redis stack icon with Redis University text</desc>
+  <g transform="translate(18 23)">
+    <path d="M58 0 112 20 58 41 4 20z" fill="#d82c20"/>
+    <path d="M4 20v14l54 21 54-21V20L58 41z" fill="#a51f18"/>
+    <path d="M4 42v14l54 21 54-21V42L58 63z" fill="#bf241b"/>
+    <path d="M4 64v14l54 21 54-21V64L58 85z" fill="#d82c20"/>
+    <ellipse cx="34" cy="19" rx="12" ry="7" fill="#fff" opacity="0.95"/>
+    <path d="m76 11 5 8 10 2-7 7 2 10-10-5-9 5 2-10-8-7 11-2z" fill="#fff" opacity="0.95"/>
+    <path d="M57 13h10v10H57z" fill="#fff" opacity="0.95" transform="rotate(18 62 18)"/>
+  </g>
+  <text x="158" y="69" fill="#4b5563" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">redis</text>
+  <text x="160" y="116" fill="#d82c20" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" letter-spacing="1">UNIVERSITY</text>
+</svg>

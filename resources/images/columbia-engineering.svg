@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 190" role="img" aria-labelledby="title desc">
+  <title id="title">Columbia Engineering logo</title>
+  <desc id="desc">Columbia Engineering crown and wordmark</desc>
+  <g fill="#002b5c">
+    <g transform="translate(183 18)">
+      <path d="M28 6 39 0l5 14-10 7z"/>
+      <path d="M9 0 20 6l-6 15-10-7z"/>
+      <path d="M24 14h8v21h-8z"/>
+      <path d="M10 24c9 0 17 7 17 17H10z"/>
+      <path d="M46 24c-9 0-17 7-17 17h17z"/>
+      <path d="M3 43h50v8H3z"/>
+      <path d="M13 54h30v6H13z"/>
+      <circle cx="8" cy="24" r="5"/>
+      <circle cx="48" cy="24" r="5"/>
+    </g>
+    <text x="210" y="105" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="43" letter-spacing="1">COLUMBIA</text>
+    <text x="210" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="43" letter-spacing="1">ENGINEERING</text>
+  </g>
+</svg>

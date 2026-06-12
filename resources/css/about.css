@@ -142,10 +142,15 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
   background-color: #fff;
 }
-.cert-icon {
-  font-size: 2rem;
-  color: #BD5D38;
-  margin-bottom: 0.75rem;
+.cert-logo {
+  display: block;
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+.cert-logo-wide {
+  width: 10rem;
 }
 
 /* ── Skills tags ─────────────────────────────── */
